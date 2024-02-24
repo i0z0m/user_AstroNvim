@@ -10,5 +10,5 @@ return {
   --   end,
   -- },
 
-  "catppuccin/nvim"
+  'wakatime/vim-wakatime'
 }
